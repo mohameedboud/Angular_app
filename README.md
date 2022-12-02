@@ -30,6 +30,5 @@ package that implements end-to-end testing capabilities.
 To get more help on the Angular CLI use `ng help` or go check out
 the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-![plot](./directory_1/directory_2/.../directory_n/plot.png) 
-Source: https://prograide.com/pregunta/2181/comment-ajouter-des-images-au-fichier-readmemd-sur-github
+![Alt text](https://drive.google.com/file/d/13Jm0Qzr2ny6jcB0lINzw7SNHSKbpPuki/view?raw=true "Title")
 
