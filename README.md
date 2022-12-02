@@ -30,5 +30,5 @@ package that implements end-to-end testing capabilities.
 To get more help on the Angular CLI use `ng help` or go check out
 the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-<img src="src/assets/Potos4ever.png">
 
+<img src='src/assets/Potoos4ever.png' width=500px>
